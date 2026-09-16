@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 · spomOTwu -->
-## Notification 1/2
-Round: Round 1
-To: orleonard@videotron.ca, ormazai@yahoo.com
-At: 2026-09-16 19:17:09
-Id: spomOTwu
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: ormedude@aol.com, orrick8lbexcel@yahoo.com
+At: 2026-09-16 19:17:23
+Id: T6md987Y
